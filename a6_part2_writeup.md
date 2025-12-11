@@ -8,10 +8,9 @@ Based on your house price model, rank the four features from most important to l
 
 **YOUR ANSWER:**
 1. Most Important: 
-2. 
-3. 
-4. Least Important: 
-
+2.
+3.
+4.Least Important:
 **Explanation:**
 
 
@@ -23,10 +22,10 @@ Based on your house price model, rank the four features from most important to l
 
 Choose TWO features from your model and explain what their coefficients mean in plain English. For example: "Each additional bedroom increases the price by $___"
 
-**Feature 1:**
+**Feature 1:**  Every additional bathroom increases the price by $950.
 
 
-**Feature 2:**
+**Feature 2:**  Every additional bathroom increases the price by $3800.
 
 
 ---
